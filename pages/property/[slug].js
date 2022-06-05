@@ -41,7 +41,8 @@ const Property = ({ property }) => {
             <b>Enhanced Clean</b>
           </h4>
           <p>
-            This host is commited to Airbnb's 5-step inhanced cleaning process
+            This host is commited to Airbnb&apos;s 5-step inhanced cleaning
+            process
           </p>
           <h4>
             <b>Amenities for everyday living</b>
@@ -54,7 +55,7 @@ const Property = ({ property }) => {
             <b>House Rule</b>
           </h4>
           <p>
-            this place isn't sutaible for pets and forest animals . it is
+            this place isn&apos;t sutaible for pets and forest animals . it is
             strictly prohibited
           </p>
         </div>
